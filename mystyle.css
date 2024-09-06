@@ -1,0 +1,107 @@
+body{
+background-color: aquamarine;
+}
+p{
+text-align: justify;
+font-size: 18px;
+font-family: Cambria, Cochin, Georgia, Times, serif;
+font-weight: 300;
+color: chocolate;
+font-style: normal;
+}
+h1,h2{
+    text-align: center;
+    font-size: 30px;
+    color:brown;
+}
+#solid{
+    border-style: double;
+    border-width: 20px;
+    text-align: center;
+    color: blueviolet;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.margin{
+    margin-top:30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+    background-color: lightgrey;
+    width:1000px;
+    border-style: solid;
+    border-width: 80px;
+    height:auto;
+    border-color: purple;
+    padding: 10px;
+    
+}
+a:link, a:visited {
+  background-color: #367cf4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+}
+a:hover {
+  background-color: green;
+  color:#f85003 ;
+  padding: 14px 25px;
+  font-size: 22px;
+  text-align:center;
+  text-decoration: underline;
+  display: inline-block;
+}
+input[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border:2px solid green;
+    box-sizing: border-box;
+}
+input[type=radio] {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=number] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border:2px solid green;
+}
+select{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border:2px solid green;
+}
+
+
+}
+
+footer {
+    text-align: center;
+    padding: 4px;
+    background-color:aqua;
+    color: white;
+    font-size: 14px;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float:right;
+  }
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }

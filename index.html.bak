@@ -1,0 +1,18 @@
+
+<html>
+  <head>
+    
+  </head>
+<body>
+
+       <h1 style="color :green; font-size:10px;">Hello all, Welcome to my personal Website!</h1>
+        <!-- img is used to insert image to the webpage/website -->
+       <img src="Dawit.jpg" width="44px" height="50px" alt="Profile photo">
+     <hr/>
+     <a href="index.html">Home</a>
+     <a href="about.html"> About</a>
+     <a href="contact.html">Contact</a>  
+  
+       <p style ="color:red; font-size:24px;"> This is biography of <b>Dawit Uta</b>, Who is <i>Lecturer</i> in <u>Computer Science Department of WSU </u> & CEO of CITCS. I like to drink water (H<sub>2</sub>O) very much. <span style="color:purple; font-weight:bold;"> Thank you Jesus </span></p>
+   </body>
+</html>
